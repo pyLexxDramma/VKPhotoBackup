@@ -1,0 +1,11 @@
+[33mcommit 29e9304216ae37ac8cf04ead77cb62ca29ec766d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: pyLexxDramma <lexxdramma@vk.com>
+Date:   Wed Jan 15 14:01:40 2025 +0400
+
+    Remove credentials.json
+
+[33mcommit bfcd62055704d282d8df51ea461f666f4316662e[m
+Author: pyLexxDramma <lexxdramma@vk.com>
+Date:   Wed Jan 15 13:15:29 2025 +0400
+
+    Initial commit
